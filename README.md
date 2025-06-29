@@ -12,7 +12,7 @@ A clean and responsive personal portfolio website to showcase projects, skills, 
 - CSS
 - JavaScript
 
-Live demo: https://yashswarn.github.io/portfolio_/
+Live demo: https://yashswarn.github.io/portfolio/
 
 ## 📦 How to Run
 ```bash
